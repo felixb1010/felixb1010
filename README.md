@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @felixb1010
-- 👀 I’m interested in python, reactjs, swiftui, reactnative
-- 🌱 I’m currently learning python, react
+- 👀 I’m interested in rust, reactjs, typescript, swiftui
+- 🌱 I’m currently learning rust
