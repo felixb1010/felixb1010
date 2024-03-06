@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @felixb1010
-- 👀 I’m interested in SwiftUI
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in SwiftUI, NuxtJS, Serverless.
